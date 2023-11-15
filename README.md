@@ -67,7 +67,7 @@ Django CRM is a web-based customer record management system built using the Djan
 
 7. **Access the Application:**
 
-   Visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/) in your web browser.
+   Visit [https://dcrm-7frp.onrender.com/] in your web browser.
 
 ## Contributing
 
