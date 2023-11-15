@@ -1,0 +1,2010 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "messages",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "UserCreationForm",
+        "importPath": "django.contrib.auth.forms",
+        "description": "django.contrib.auth.forms",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.forms",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "mysql.connector",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mysql.connector",
+        "description": "mysql.connector",
+        "detail": "mysql.connector",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "dcrm.asgi",
+        "description": "dcrm.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "dcrm.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-jcxge@8cwms-4-$&qia^6p+^8-qwrsw7vey#0e6e326apg3mvo'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-jcxge@8cwms-4-$&qia^6p+^8-qwrsw7vey#0e6e326apg3mvo'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'website',",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'website',\n]\nMIDDLEWARE = [",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'whitenoise.middleware.WhiteNoiseMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "ROOT_URLCONF = 'dcrm.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'dcrm.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'newone',\n        'USER': 'root',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'newone',\n        'USER': 'root',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',\n        'PORT': '3306',\n    }\n}",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n    'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n    'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n    'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT=os.path.join(BASE_DIR,'assets')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT=os.path.join(BASE_DIR,'assets')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT=os.path.join(BASE_DIR,'assets')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\nSTATIC_ROOT=os.path.join(BASE_DIR,'assets')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nSTATIC_ROOT=os.path.join(BASE_DIR,'assets')\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSTATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATICFILES_STORAGE",
+        "kind": 5,
+        "importPath": "dcrm.settings",
+        "description": "dcrm.settings",
+        "peekOfCode": "STATICFILES_STORAGE = \"whitenoise.storage.CompressedManifestStaticFilesStorage\"",
+        "detail": "dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "dcrm.urls",
+        "description": "dcrm.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('website.urls')),\n]",
+        "detail": "dcrm.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "dcrm.wsgi",
+        "description": "dcrm.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "dcrm.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.asgi",
+        "description": "Django-CRM.dcrm.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "Django-CRM.dcrm.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/4.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-jcxge@8cwms-4-$&qia^6p+^8-qwrsw7vey#0e6e326apg3mvo'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-jcxge@8cwms-4-$&qia^6p+^8-qwrsw7vey#0e6e326apg3mvo'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'website',",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'website',\n]\nMIDDLEWARE = [",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'dcrm.urls'",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "ROOT_URLCONF = 'dcrm.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'dcrm.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/4.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'newone',\n        'USER': 'root',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.mysql',\n        'NAME': 'newone',\n        'USER': 'root',\n        'PASSWORD': '1234',\n        'HOST': 'localhost',\n        'PORT': '3306',\n    }\n}",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n    'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n    'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n    'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/4.1/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.settings",
+        "description": "Django-CRM.dcrm.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "Django-CRM.dcrm.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.urls",
+        "description": "Django-CRM.dcrm.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('website.urls')),\n]",
+        "detail": "Django-CRM.dcrm.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "Django-CRM.dcrm.wsgi",
+        "description": "Django-CRM.dcrm.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "Django-CRM.dcrm.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "Django-CRM.website.migrations.0001_initial",
+        "description": "Django-CRM.website.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Record',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('created_at', models.DateTimeField(auto_now_add=True)),",
+        "detail": "Django-CRM.website.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteConfig",
+        "kind": 6,
+        "importPath": "Django-CRM.website.apps",
+        "description": "Django-CRM.website.apps",
+        "peekOfCode": "class WebsiteConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'website'",
+        "detail": "Django-CRM.website.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpForm",
+        "kind": 6,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "class SignUpForm(UserCreationForm):\n\temail = forms.EmailField(label=\"\", widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Email Address'}))\n\tfirst_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'First Name'}))\n\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AddRecordForm",
+        "kind": 6,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "class AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\temail = forms.EmailField(label=\"\", widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Email Address'}))\n\tfirst_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'First Name'}))\n\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tfirst_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'First Name'}))\n\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].widget.attrs['placeholder']",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].label",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].help_text",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].widget.attrs['placeholder']",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].label",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].help_text",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].widget.attrs['placeholder']",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].label",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].help_text",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tphone",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\taddress",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tcity",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tstate",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tzipcode",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\texclude",
+        "kind": 5,
+        "importPath": "Django-CRM.website.forms",
+        "description": "Django-CRM.website.forms",
+        "peekOfCode": "\t\texclude = (\"user\",)",
+        "detail": "Django-CRM.website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Record",
+        "kind": 6,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "class Record(models.Model):\n\tcreated_at = models.DateTimeField(auto_now_add=True)\n\tfirst_name = models.CharField(max_length=50)\n\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcreated_at",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\tcreated_at = models.DateTimeField(auto_now_add=True)\n\tfirst_name = models.CharField(max_length=50)\n\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\tfirst_name = models.CharField(max_length=50)\n\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tphone",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\taddress",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcity",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tstate",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tzipcode",
+        "kind": 5,
+        "importPath": "Django-CRM.website.models",
+        "description": "Django-CRM.website.models",
+        "peekOfCode": "\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "Django-CRM.website.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "Django-CRM.website.urls",
+        "description": "Django-CRM.website.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name='home'),\n    #path('login/', views.login_user, name='login'),\n    path('logout/', views.logout_user, name='logout'),\n    path('register/', views.register_user, name='register'),\n    path('record/<int:pk>', views.customer_record, name='record'),\n    path('delete_record/<int:pk>', views.delete_record, name='delete_record'),\n    path('add_record/', views.add_record, name='add_record'),\n    path('update_record/<int:pk>', views.update_record, name='update_record'),\n]",
+        "detail": "Django-CRM.website.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "def home(request):\n\trecords = Record.objects.all()\n\t# Check to see if logging in\n\tif request.method == 'POST':\n\t\tusername = request.POST['username']\n\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "kind": 2,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "def logout_user(request):\n\tlogout(request)\n\tmessages.success(request, \"You Have Been Logged Out...\")\n\treturn redirect('home')\ndef register_user(request):\n\tif request.method == 'POST':\n\t\tform = SignUpForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\t# Authenticate and login",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "def register_user(request):\n\tif request.method == 'POST':\n\t\tform = SignUpForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\t# Authenticate and login\n\t\t\tusername = form.cleaned_data['username']\n\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "customer_record",
+        "kind": 2,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "def customer_record(request, pk):\n\tif request.user.is_authenticated:\n\t\t# Look Up Records\n\t\tcustomer_record = Record.objects.get(id=pk)\n\t\treturn render(request, 'record.html', {'customer_record':customer_record})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To View That Page...\")\n\t\treturn redirect('home')\ndef delete_record(request, pk):\n\tif request.user.is_authenticated:",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_record",
+        "kind": 2,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "def delete_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tdelete_it = Record.objects.get(id=pk)\n\t\tdelete_it.delete()\n\t\tmessages.success(request, \"Record Deleted Successfully...\")\n\t\treturn redirect('home')\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To Do That...\")\n\t\treturn redirect('home')\ndef add_record(request):",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_record",
+        "kind": 2,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "def add_record(request):\n\tform = AddRecordForm(request.POST or None)\n\tif request.user.is_authenticated:\n\t\tif request.method == \"POST\":\n\t\t\tif form.is_valid():\n\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_record",
+        "kind": 2,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "def update_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tcurrent_record = Record.objects.get(id=pk)\n\t\tform = AddRecordForm(request.POST or None, instance=current_record)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\tmessages.success(request, \"Record Has Been Updated!\")\n\t\t\treturn redirect('home')\n\t\treturn render(request, 'update_record.html', {'form':form})\n\telse:",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\trecords",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\trecords = Record.objects.all()\n\t# Check to see if logging in\n\tif request.method == 'POST':\n\t\tusername = request.POST['username']\n\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tusername",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tusername = request.POST['username']\n\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")\n\t\t\treturn redirect('home')\n\t\telse:\n\t\t\tmessages.success(request, \"There Was An Error Logging In, Please Try Again...\")",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpassword",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")\n\t\t\treturn redirect('home')\n\t\telse:\n\t\t\tmessages.success(request, \"There Was An Error Logging In, Please Try Again...\")\n\t\t\treturn redirect('home')",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")\n\t\t\treturn redirect('home')\n\t\telse:\n\t\t\tmessages.success(request, \"There Was An Error Logging In, Please Try Again...\")\n\t\t\treturn redirect('home')\n\telse:\n\t\treturn render(request, 'home.html', {'records':records})",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tform = SignUpForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\t# Authenticate and login\n\t\t\tusername = form.cleaned_data['username']\n\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tusername",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\t\tusername = form.cleaned_data['username']\n\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')\n\telse:\n\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tpassword",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')\n\telse:\n\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})\ndef customer_record(request, pk):",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')\n\telse:\n\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})\ndef customer_record(request, pk):\n\tif request.user.is_authenticated:",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})\ndef customer_record(request, pk):\n\tif request.user.is_authenticated:\n\t\t# Look Up Records\n\t\tcustomer_record = Record.objects.get(id=pk)\n\t\treturn render(request, 'record.html', {'customer_record':customer_record})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To View That Page...\")",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcustomer_record",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tcustomer_record = Record.objects.get(id=pk)\n\t\treturn render(request, 'record.html', {'customer_record':customer_record})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To View That Page...\")\n\t\treturn redirect('home')\ndef delete_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tdelete_it = Record.objects.get(id=pk)\n\t\tdelete_it.delete()\n\t\tmessages.success(request, \"Record Deleted Successfully...\")",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdelete_it",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tdelete_it = Record.objects.get(id=pk)\n\t\tdelete_it.delete()\n\t\tmessages.success(request, \"Record Deleted Successfully...\")\n\t\treturn redirect('home')\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To Do That...\")\n\t\treturn redirect('home')\ndef add_record(request):\n\tform = AddRecordForm(request.POST or None)\n\tif request.user.is_authenticated:",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\tform = AddRecordForm(request.POST or None)\n\tif request.user.is_authenticated:\n\t\tif request.method == \"POST\":\n\t\t\tif form.is_valid():\n\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tadd_record",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')\ndef update_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tcurrent_record = Record.objects.get(id=pk)",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcurrent_record",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tcurrent_record = Record.objects.get(id=pk)\n\t\tform = AddRecordForm(request.POST or None, instance=current_record)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\tmessages.success(request, \"Record Has Been Updated!\")\n\t\t\treturn redirect('home')\n\t\treturn render(request, 'update_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "Django-CRM.website.views",
+        "description": "Django-CRM.website.views",
+        "peekOfCode": "\t\tform = AddRecordForm(request.POST or None, instance=current_record)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\tmessages.success(request, \"Record Has Been Updated!\")\n\t\t\treturn redirect('home')\n\t\treturn render(request, 'update_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')",
+        "detail": "Django-CRM.website.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "Django-CRM.manage",
+        "description": "Django-CRM.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dcrm.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "Django-CRM.manage",
+        "documentation": {}
+    },
+    {
+        "label": "dataBase",
+        "kind": 5,
+        "importPath": "Django-CRM.mydb",
+        "description": "Django-CRM.mydb",
+        "peekOfCode": "dataBase = mysql.connector.connect(\n\thost = 'localhost',\n\tuser = 'root',\n\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "Django-CRM.mydb",
+        "documentation": {}
+    },
+    {
+        "label": "\thost",
+        "kind": 5,
+        "importPath": "Django-CRM.mydb",
+        "description": "Django-CRM.mydb",
+        "peekOfCode": "\thost = 'localhost',\n\tuser = 'root',\n\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "Django-CRM.mydb",
+        "documentation": {}
+    },
+    {
+        "label": "\tuser",
+        "kind": 5,
+        "importPath": "Django-CRM.mydb",
+        "description": "Django-CRM.mydb",
+        "peekOfCode": "\tuser = 'root',\n\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "Django-CRM.mydb",
+        "documentation": {}
+    },
+    {
+        "label": "\tpasswd",
+        "kind": 5,
+        "importPath": "Django-CRM.mydb",
+        "description": "Django-CRM.mydb",
+        "peekOfCode": "\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "Django-CRM.mydb",
+        "documentation": {}
+    },
+    {
+        "label": "cursorObject",
+        "kind": 5,
+        "importPath": "Django-CRM.mydb",
+        "description": "Django-CRM.mydb",
+        "peekOfCode": "cursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "Django-CRM.mydb",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "website.migrations.0001_initial",
+        "description": "website.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Record',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('created_at', models.DateTimeField(auto_now_add=True)),",
+        "detail": "website.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "WebsiteConfig",
+        "kind": 6,
+        "importPath": "website.apps",
+        "description": "website.apps",
+        "peekOfCode": "class WebsiteConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'website'",
+        "detail": "website.apps",
+        "documentation": {}
+    },
+    {
+        "label": "SignUpForm",
+        "kind": 6,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "class SignUpForm(UserCreationForm):\n\temail = forms.EmailField(label=\"\", widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Email Address'}))\n\tfirst_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'First Name'}))\n\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "AddRecordForm",
+        "kind": 6,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "class AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\temail = forms.EmailField(label=\"\", widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Email Address'}))\n\tfirst_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'First Name'}))\n\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tfirst_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'First Name'}))\n\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tlast_name = forms.CharField(label=\"\", max_length=100, widget=forms.TextInput(attrs={'class':'form-control', 'placeholder':'Last Name'}))\n\tclass Meta:\n\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tmodel = User\n\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tfields",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tfields = ('username', 'first_name', 'last_name', 'email', 'password1', 'password2')\n\tdef __init__(self, *args, **kwargs):\n\t\tsuper(SignUpForm, self).__init__(*args, **kwargs)\n\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['username'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].widget.attrs['placeholder']",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['username'].widget.attrs['placeholder'] = 'User Name'\n\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].label",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['username'].label = ''\n\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['username'].help_text",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['username'].help_text = '<span class=\"form-text text-muted\"><small>Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only.</small></span>'\n\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].widget.attrs['placeholder']",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].widget.attrs['placeholder'] = 'Password'\n\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].label",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].label = ''\n\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password1'].help_text",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password1'].help_text = '<ul class=\"form-text text-muted small\"><li>Your password can\\'t be too similar to your other personal information.</li><li>Your password must contain at least 8 characters.</li><li>Your password can\\'t be a commonly used password.</li><li>Your password can\\'t be entirely numeric.</li></ul>'\n\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].widget.attrs['class']",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].widget.attrs['class'] = 'form-control'\n\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].widget.attrs['placeholder']",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].widget.attrs['placeholder'] = 'Confirm Password'\n\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].label",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].label = ''\n\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tself.fields['password2'].help_text",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tself.fields['password2'].help_text = '<span class=\"form-text text-muted\"><small>Enter the same password as before, for verification.</small></span>'\t\n# Create Add Record Form\nclass AddRecordForm(forms.ModelForm):\n\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tfirst_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"First Name\", \"class\":\"form-control\"}), label=\"\")\n\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tlast_name = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Last Name\", \"class\":\"form-control\"}), label=\"\")\n\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\temail = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Email\", \"class\":\"form-control\"}), label=\"\")\n\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tphone",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tphone = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Phone\", \"class\":\"form-control\"}), label=\"\")\n\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\taddress",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\taddress = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Address\", \"class\":\"form-control\"}), label=\"\")\n\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tcity",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tcity = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"City\", \"class\":\"form-control\"}), label=\"\")\n\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tstate",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tstate = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"State\", \"class\":\"form-control\"}), label=\"\")\n\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\tzipcode",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\tzipcode = forms.CharField(required=True, widget=forms.widgets.TextInput(attrs={\"placeholder\":\"Zipcode\", \"class\":\"form-control\"}), label=\"\")\n\tclass Meta:\n\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\tmodel = Record\n\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "\t\texclude",
+        "kind": 5,
+        "importPath": "website.forms",
+        "description": "website.forms",
+        "peekOfCode": "\t\texclude = (\"user\",)",
+        "detail": "website.forms",
+        "documentation": {}
+    },
+    {
+        "label": "Record",
+        "kind": 6,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "class Record(models.Model):\n\tcreated_at = models.DateTimeField(auto_now_add=True)\n\tfirst_name = models.CharField(max_length=50)\n\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcreated_at",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\tcreated_at = models.DateTimeField(auto_now_add=True)\n\tfirst_name = models.CharField(max_length=50)\n\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tfirst_name",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\tfirst_name = models.CharField(max_length=50)\n\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tlast_name",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\tlast_name =  models.CharField(max_length=50)\n\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\temail",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\temail =  models.CharField(max_length=100)\n\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tphone",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\tphone = models.CharField(max_length=15)\n\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\taddress",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\taddress =  models.CharField(max_length=100)\n\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tcity",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\tcity =  models.CharField(max_length=50)\n\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tstate",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\tstate =  models.CharField(max_length=50)\n\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "\tzipcode",
+        "kind": 5,
+        "importPath": "website.models",
+        "description": "website.models",
+        "peekOfCode": "\tzipcode =  models.CharField(max_length=20)\n\tdef __str__(self):\n\t\treturn(f\"{self.first_name} {self.last_name}\")",
+        "detail": "website.models",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "website.urls",
+        "description": "website.urls",
+        "peekOfCode": "urlpatterns = [\n    path('', views.home, name='home'),\n    #path('login/', views.login_user, name='login'),\n    path('logout/', views.logout_user, name='logout'),\n    path('register/', views.register_user, name='register'),\n    path('record/<int:pk>', views.customer_record, name='record'),\n    path('delete_record/<int:pk>', views.delete_record, name='delete_record'),\n    path('add_record/', views.add_record, name='add_record'),\n    path('update_record/<int:pk>', views.update_record, name='update_record'),\n]",
+        "detail": "website.urls",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def home(request):\n\trecords = Record.objects.all()\n\t# Check to see if logging in\n\tif request.method == 'POST':\n\t\tusername = request.POST['username']\n\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "logout_user",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def logout_user(request):\n\tlogout(request)\n\tmessages.success(request, \"You Have Been Logged Out...\")\n\treturn redirect('home')\ndef register_user(request):\n\tif request.method == 'POST':\n\t\tform = SignUpForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\t# Authenticate and login",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "register_user",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def register_user(request):\n\tif request.method == 'POST':\n\t\tform = SignUpForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\t# Authenticate and login\n\t\t\tusername = form.cleaned_data['username']\n\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "customer_record",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def customer_record(request, pk):\n\tif request.user.is_authenticated:\n\t\t# Look Up Records\n\t\tcustomer_record = Record.objects.get(id=pk)\n\t\treturn render(request, 'record.html', {'customer_record':customer_record})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To View That Page...\")\n\t\treturn redirect('home')\ndef delete_record(request, pk):\n\tif request.user.is_authenticated:",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "delete_record",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def delete_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tdelete_it = Record.objects.get(id=pk)\n\t\tdelete_it.delete()\n\t\tmessages.success(request, \"Record Deleted Successfully...\")\n\t\treturn redirect('home')\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To Do That...\")\n\t\treturn redirect('home')\ndef add_record(request):",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "add_record",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def add_record(request):\n\tform = AddRecordForm(request.POST or None)\n\tif request.user.is_authenticated:\n\t\tif request.method == \"POST\":\n\t\t\tif form.is_valid():\n\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "update_record",
+        "kind": 2,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "def update_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tcurrent_record = Record.objects.get(id=pk)\n\t\tform = AddRecordForm(request.POST or None, instance=current_record)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\tmessages.success(request, \"Record Has Been Updated!\")\n\t\t\treturn redirect('home')\n\t\treturn render(request, 'update_record.html', {'form':form})\n\telse:",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\trecords",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\trecords = Record.objects.all()\n\t# Check to see if logging in\n\tif request.method == 'POST':\n\t\tusername = request.POST['username']\n\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tusername",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tusername = request.POST['username']\n\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")\n\t\t\treturn redirect('home')\n\t\telse:\n\t\t\tmessages.success(request, \"There Was An Error Logging In, Please Try Again...\")",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tpassword",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tpassword = request.POST['password']\n\t\t# Authenticate\n\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")\n\t\t\treturn redirect('home')\n\t\telse:\n\t\t\tmessages.success(request, \"There Was An Error Logging In, Please Try Again...\")\n\t\t\treturn redirect('home')",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tuser",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tuser = authenticate(request, username=username, password=password)\n\t\tif user is not None:\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Been Logged In!\")\n\t\t\treturn redirect('home')\n\t\telse:\n\t\t\tmessages.success(request, \"There Was An Error Logging In, Please Try Again...\")\n\t\t\treturn redirect('home')\n\telse:\n\t\treturn render(request, 'index.html', {'records':records})",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tform = SignUpForm(request.POST)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\t# Authenticate and login\n\t\t\tusername = form.cleaned_data['username']\n\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tusername",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\t\tusername = form.cleaned_data['username']\n\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')\n\telse:\n\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tpassword",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\t\tpassword = form.cleaned_data['password1']\n\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')\n\telse:\n\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})\ndef customer_record(request, pk):",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tuser",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\t\tuser = authenticate(username=username, password=password)\n\t\t\tlogin(request, user)\n\t\t\tmessages.success(request, \"You Have Successfully Registered! Welcome!\")\n\t\t\treturn redirect('home')\n\telse:\n\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})\ndef customer_record(request, pk):\n\tif request.user.is_authenticated:",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tform = SignUpForm()\n\t\treturn render(request, 'register.html', {'form':form})\n\treturn render(request, 'register.html', {'form':form})\ndef customer_record(request, pk):\n\tif request.user.is_authenticated:\n\t\t# Look Up Records\n\t\tcustomer_record = Record.objects.get(id=pk)\n\t\treturn render(request, 'record.html', {'customer_record':customer_record})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To View That Page...\")",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcustomer_record",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tcustomer_record = Record.objects.get(id=pk)\n\t\treturn render(request, 'record.html', {'customer_record':customer_record})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To View That Page...\")\n\t\treturn redirect('home')\ndef delete_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tdelete_it = Record.objects.get(id=pk)\n\t\tdelete_it.delete()\n\t\tmessages.success(request, \"Record Deleted Successfully...\")",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdelete_it",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tdelete_it = Record.objects.get(id=pk)\n\t\tdelete_it.delete()\n\t\tmessages.success(request, \"Record Deleted Successfully...\")\n\t\treturn redirect('home')\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In To Do That...\")\n\t\treturn redirect('home')\ndef add_record(request):\n\tform = AddRecordForm(request.POST or None)\n\tif request.user.is_authenticated:",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\tform",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\tform = AddRecordForm(request.POST or None)\n\tif request.user.is_authenticated:\n\t\tif request.method == \"POST\":\n\t\t\tif form.is_valid():\n\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\t\tadd_record",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')\ndef update_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tcurrent_record = Record.objects.get(id=pk)",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tcurrent_record",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tcurrent_record = Record.objects.get(id=pk)\n\t\tform = AddRecordForm(request.POST or None, instance=current_record)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\tmessages.success(request, \"Record Has Been Updated!\")\n\t\t\treturn redirect('home')\n\t\treturn render(request, 'update_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tform",
+        "kind": 5,
+        "importPath": "website.views",
+        "description": "website.views",
+        "peekOfCode": "\t\tform = AddRecordForm(request.POST or None, instance=current_record)\n\t\tif form.is_valid():\n\t\t\tform.save()\n\t\t\tmessages.success(request, \"Record Has Been Updated!\")\n\t\t\treturn redirect('home')\n\t\treturn render(request, 'update_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')",
+        "detail": "website.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dcrm.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    },
+    {
+        "label": "dataBase",
+        "kind": 5,
+        "importPath": "mydb",
+        "description": "mydb",
+        "peekOfCode": "dataBase = mysql.connector.connect(\n\thost = 'localhost',\n\tuser = 'root',\n\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "mydb",
+        "documentation": {}
+    },
+    {
+        "label": "\thost",
+        "kind": 5,
+        "importPath": "mydb",
+        "description": "mydb",
+        "peekOfCode": "\thost = 'localhost',\n\tuser = 'root',\n\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "mydb",
+        "documentation": {}
+    },
+    {
+        "label": "\tuser",
+        "kind": 5,
+        "importPath": "mydb",
+        "description": "mydb",
+        "peekOfCode": "\tuser = 'root',\n\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "mydb",
+        "documentation": {}
+    },
+    {
+        "label": "\tpasswd",
+        "kind": 5,
+        "importPath": "mydb",
+        "description": "mydb",
+        "peekOfCode": "\tpasswd = 'password123'\n\t)\n# prepare a cursor object\ncursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "mydb",
+        "documentation": {}
+    },
+    {
+        "label": "cursorObject",
+        "kind": 5,
+        "importPath": "mydb",
+        "description": "mydb",
+        "peekOfCode": "cursorObject = dataBase.cursor()\n# Create a database\ncursorObject.execute(\"CREATE DATABASE elderco\")\nprint(\"All Done!\")",
+        "detail": "mydb",
+        "documentation": {}
+    }
+]
