@@ -3,7 +3,7 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib import messages
 from .forms import SignUpForm, AddRecordForm
 from .models import Record
-
+#i am unnati patil
 
 def home(request):
 	records = Record.objects.all()
