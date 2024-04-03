@@ -4,7 +4,7 @@ from django.contrib import messages
 from .forms import SignUpForm, AddRecordForm
 from .models import Record
 
-
+# i am ROhan
 def home(request):
 	records = Record.objects.all()
 	# Check to see if logging in
