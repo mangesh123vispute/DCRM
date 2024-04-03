@@ -9,10 +9,13 @@ from .models import Record
 
 
 
-# i am Unnati g
+
+# i am chaitali 
+
 #i am nilesh tayade
 # i am mangesh visptue
 # i am chaitali 
+#  i am Unnati g
 def home(request):
 	records = Record.objects.all()
 	# Check to see if logging in
