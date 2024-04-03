@@ -962,7 +962,7 @@
         "kind": 5,
         "importPath": "website.views",
         "description": "website.views",
-        "peekOfCode": "\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')\ndef update_record(request, pk):\n\tif request.user.is_authenticated:\n\t\tcurrent_record = Record.objects.get(id=pk)",
+        "peekOfCode": "\t\t\t\tadd_record = form.save()\n\t\t\t\tmessages.success(request, \"Record Added...\")\n\t\t\t\treturn redirect('home')\n\t\treturn render(request, 'add_record.html', {'form':form})\n\telse:\n\t\tmessages.success(request, \"You Must Be Logged In...\")\n\t\treturn redirect('home')\n  # I am chetan\ndef update_record(request, pk):\n\tif request.user.is_authenticated:",
         "detail": "website.views",
         "documentation": {}
     },
