@@ -4,6 +4,8 @@ from django.contrib import messages
 from .forms import SignUpForm, AddRecordForm
 from .models import Record
 
+
+# i am ROhan
 #i am nilesh tayade
 def home(request):
 	records = Record.objects.all()
