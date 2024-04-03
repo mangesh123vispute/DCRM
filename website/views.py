@@ -8,7 +8,11 @@ from .models import Record
 
 
 
+<<<<<<< HEAD
 # i am Unnati
+=======
+# i am ROhan 
+>>>>>>> 1ecdbcd58657a1c502a9144f3a2f346f44c1d0fd
 #i am nilesh tayade
 # i am mangesh visptue
 # i am chaitali 
