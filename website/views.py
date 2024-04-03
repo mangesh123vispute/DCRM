@@ -11,8 +11,8 @@ from .models import Record
 
 
 
-# i am chaitali 
 
+# i am chaitali 
 
 #i am nilesh tayade
 # i am mangesh visptue
@@ -20,6 +20,7 @@ from .models import Record
 #  i am Unnati g
 # i am komal
 #i am nilesh
+# i am chetan
 def home(request):
 	records = Record.objects.all()
 	# Check to see if logging in
