@@ -3,8 +3,16 @@ from django.contrib.auth import authenticate, login, logout
 from django.contrib import messages
 from .forms import SignUpForm, AddRecordForm
 from .models import Record
+#i am unnati patil
 
-#i am chaitali 
+
+
+
+
+# i am chaitali 
+#i am nilesh tayade
+# i am mangesh visptue
+# i am chaitali 
 def home(request):
 	records = Record.objects.all()
 	# Check to see if logging in
@@ -85,7 +93,7 @@ def add_record(request):
 	else:
 		messages.success(request, "You Must Be Logged In...")
 		return redirect('home')
-
+  # I am chetan
 
 def update_record(request, pk):
 	if request.user.is_authenticated:
